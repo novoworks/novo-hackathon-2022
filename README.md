@@ -45,15 +45,15 @@ Follow the [template](https://github.com/novobitcoin/novo-bitcoin-hackathon-2022
 
 Here is the total amount of prize:
 
-- **2,000,000,000 NBC**
+- **2,000,000,000 NOVO**
 
 The prize contains two parts:
 
-- **Early Awards**: 500,000,000 NBC
+- **Early Awards**: 500,000,000 NOVO
 	+ Early Awards are for the registered projects with remarkable progress during the hackathon.
-- **Final Awards**: 1,500,000,000 NBC
+- **Final Awards**: 1,500,000,000 NOVO
 	+ Ten projects will win the Final Awards of the hackathon in the five categories listed above.
-	+ Two awards will be presented in each category: **the golden award** (200,000,000 NBC) and **the silver award** (100,000,000 NBC)
+	+ Two awards will be presented in each category: **the golden award** (200,000,000 NOVO) and **the silver award** (100,000,000 NOVO)
 
 The prize awarded to these projects is part of the early mined coins. The majority of these coins will be continuously distributed to support the further development of Novo Bitcoin.
 
