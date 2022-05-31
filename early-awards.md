@@ -16,7 +16,7 @@
 
 ## Notes
 
-As mentioned on the description page of the hackathon, Up to `5,000,000,000` NOVO Early Awards are prepared for the projects with remarkable progress during the hackathon.
+As mentioned on the description page of the hackathon, Up to `500,000,000` NOVO Early Awards are prepared for the projects with remarkable progress during the hackathon.
 
 There are more than ten projects registered until 27 May. Some have already built solid working software/services, and they are rewarded for `25,000,000` NOVO separately. 
 
