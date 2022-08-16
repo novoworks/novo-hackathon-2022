@@ -60,6 +60,5 @@ The prize awarded to these projects is part of the early mined coins. The majori
 ### 🌐 Links
 
 - [Novo Hackathon 2022 Home Page](https://github.com/novoworks/novo-hackathon-2022)
+- [Novo Source Code Repository](https://github.com/novoworks/novo)
 - [Novo Website](https://novonode.org/)
-- [Novo Blog](https://novonode.org/blog/)
-- Novo Source Code Repository (**in coming days**)
