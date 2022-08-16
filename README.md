@@ -52,7 +52,7 @@ The prize contains two parts:
 - **Early Awards**: 500,000,000 NOVO
 	+ [Early Awards](./early-awards.md) are for the registered projects with remarkable progress during the hackathon.
 - **Final Awards**: 1,500,000,000 NOVO
-	+ Ten projects will win the Final Awards of the hackathon in the five categories listed above.
+	+ Ten projects will win the [Final Awards](./final-awards.md) of the hackathon in the five categories listed above.
 	+ Two awards will be presented in each category: **the golden award** (200,000,000 NOVO) and **the silver award** (100,000,000 NOVO)
 
 The prize awarded to these projects is part of the early mined coins. The majority of these coins will be continuously distributed to support the further development of Novo.
